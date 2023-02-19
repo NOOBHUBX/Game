@@ -7,6 +7,7 @@ local PlaceId = game.PlaceId
 [+] Sword Slasher
 [+] Kill Monsters to Save Princess
 [+] Ski Race!
+[+] Mage Tycoon
 
 -- Not Have Key
 [+] A Bizarre Village
@@ -21,6 +22,10 @@ local PlaceId = game.PlaceId
 
 if PlaceId == 6777872443 or PlaceId == 9380307595 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Check/main/CheckDiver.lua"))()
+
+elseif PlaceId == 11846163207 then
+loadstring(game:HttpGet(https://raw.githubusercontent.com/NOOBHUBX/MageTycoon/main/NOOBHUB.Lua))()
+end
 
 elseif PlaceId == 11939099110 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Ski-Race-/main/NOOBHUB.Lua"))()
