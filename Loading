@@ -25,6 +25,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Check/main/C
 
 elseif PlaceId == 11846163207 then
 loadstring(game:HttpGet(https://raw.githubusercontent.com/NOOBHUBX/MageTycoon/main/NOOBHUB.Lua))()
+end
 
 elseif PlaceId == 11939099110 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Ski-Race-/main/NOOBHUB.Lua"))()
@@ -71,4 +72,3 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/NOOBHUBX/Ninja-Star-
         wait(1)
 	    game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
 end
-
