@@ -20,7 +20,7 @@ local PlaceId = game.PlaceId
 ]]
 
 
-if PlaceId == 6777872443 or PlaceId == 9380307595 then
+if PlaceId == 6777872443 or PlaceId == 9380307595 or PlaceId == 12192552089 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Check/main/CheckDiver.lua"))()
 
 elseif PlaceId == 11846163207 then
