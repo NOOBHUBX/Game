@@ -1,5 +1,6 @@
 local PlaceId = game.PlaceId
-
+if PlaceId == 12602213040 or PlaceId == 12602209860 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/BlueHeater/main/NOOBHUB.lua"))()
     else
         game.Players.LocalPlayer:Kick("SCRIPT NOT Support")
         wait(1)
