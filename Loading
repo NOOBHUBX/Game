@@ -5,6 +5,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/BlueHeater/m
 
 elseif PlaceId == 10534865425 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/HoopSimulator/main/noobhub.lua"))()
+
+elseif PlaceId == 13284033561 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Fishing-Frenzy-Simulator/main/noobhub.lua"))()
+
 else
         game.Players.LocalPlayer:Kick("SCRIPT NOT Support")
         wait(1)
