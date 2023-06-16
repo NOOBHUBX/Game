@@ -9,6 +9,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/HoopSimulato
 elseif PlaceId == 13284033561 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Fishing-Frenzy-Simulator/main/noobhub.lua"))()
 
+elseif PlaceId == 8069117419 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Demon-Soul-Simulator/main/noobhub.lua"))()
+
 else
         game.Players.LocalPlayer:Kick("SCRIPT NOT Support")
         wait(1)
