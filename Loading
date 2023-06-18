@@ -12,6 +12,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Fishing-Fren
 elseif PlaceId == 8069117419 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Demon-Soul-Simulator/main/noobhub.lua"))()
 
+elseif PlaceId == 6777872443 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Pixel-Piece/main/Pixel%20Piece"))()
 else
         game.Players.LocalPlayer:Kick("SCRIPT NOT Support")
         wait(1)
