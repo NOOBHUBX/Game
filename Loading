@@ -1,6 +1,6 @@
 local PlaceId = game.PlaceId
 
-if PlaceId == 12602213040 or PlaceId == 12602209860 then
+if PlaceId == 12602213040 or PlaceId == 12602209860 or PlaceId == 12602215983 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/BlueHeater/main/NOOBHUB.lua"))()
 
 elseif PlaceId == 10534865425 then
