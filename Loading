@@ -14,6 +14,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Demon-Soul-S
 
 elseif PlaceId == 6777872443 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Pixel-Piece/main/Pixel%20Piece"))()
+
+elseif PlaceId == 3402132663 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Stand-Proud/main/Stand%20Proud"))()
+
 else
         game.Players.LocalPlayer:Kick("SCRIPT NOT Support")
         wait(1)
