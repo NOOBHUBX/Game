@@ -20,6 +20,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Stand-Proud/
 
 elseif Pl == 10358162137 or Pl == 11440486855 or Pl == 11951469026 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Weak-Lagacy/main/noobhhub.lua"))()
+
+elseif Pl == 10595058975 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Arcane-Lineage/main/noobhub.lua"))()
 else
         game.Players.LocalPlayer:Kick("Scriup Not Support")
         wait(1)
