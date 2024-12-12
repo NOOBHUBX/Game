@@ -1,28 +1,8 @@
 local Pl = game.PlaceId
 
-if Pl == 12602213040 or Pl == 12602209860 or Pl == 12602215983 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/BlueHeater/main/NOOBHUB.lua"))()
+if Pl == 18668065416 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Elementa-lPowers-Tycoon/refs/heads/main/NOOBHUB.lua"))()
 
-elseif Pl == 10534865425 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/HoopSimulator/main/noobhub.lua"))()
-
-elseif Pl == 13284033561 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Fishing-Frenzy-Simulator/main/noobhub.lua"))()
-
-elseif Pl == 8069117419 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Demon-Soul-Simulator/main/noobhub.lua"))()
-
-elseif Pl == 6777872443 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Pixel-Piece/main/Pixel%20Piece"))()
-
-elseif Pl == 3402132663 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Stand-Proud/main/Stand%20Proud"))()
-
-elseif Pl == 10358162137 or Pl == 11440486855 or Pl == 11951469026 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Weak-Lagacy/main/noobhhub.lua"))()
-
-elseif Pl == 10595058975 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Arcane-Lineage/main/noobhub.lua"))()
 else
         game.Players.LocalPlayer:Kick("Scriup Not Support")
         wait(1)
