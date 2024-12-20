@@ -1,10 +1,4 @@
-local Pl = game.PlaceId
-
-if Pl == 10253248401 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Elementa-lPowers-Tycoon/refs/heads/main/NOOBHUB.lua"))()
-
-else
-        game.Players.LocalPlayer:Kick("Scriup Not Support")
-        wait(1)
-	    game:GetService("TeleportService"):Teleport(game.Pl, game:GetService("Players").LocalPlayer)
-end
+getgenv().Games = {
+  [10253248401] = "https://raw.githubusercontent.com/NOOBHUBX/Elementa-lPowers-Tycoon/refs/heads/main/NOOBHUB.lua", -- Elemental Powers Tycoon
+  [16732694052] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- Fisch
+}
