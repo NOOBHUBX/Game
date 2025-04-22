@@ -3,5 +3,6 @@ getgenv().Games = {
   [16732694052] = "https://raw.githubusercontent.com/NOOBHUBX/Fisch/refs/heads/main/NOOBHUB",  -- "https://pastebin.com/raw/ugg8pnR5" Fisch // Open Src
   [2753915549] = "https://raw.githubusercontent.com/NOOBHUBX/GUN/refs/heads/main/BLOXFRUITGUN", -- BFW1
   [4442272183] = "https://raw.githubusercontent.com/NOOBHUBX/GUN/refs/heads/main/BLOXFRUITGUN", -- BFW2
-  [7449423635] = "https://raw.githubusercontent.com/NOOBHUBX/GUN/refs/heads/main/BLOXFRUITGUN" -- BFW3
+  [7449423635] = "https://raw.githubusercontent.com/NOOBHUBX/GUN/refs/heads/main/BLOXFRUITGUN", -- BFW3
+  [122678592501168] = "https://raw.githubusercontent.com/NOOBHUBX/Backs/refs/heads/main/NOOBHUB" -- Beaks
 }
